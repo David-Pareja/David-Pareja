@@ -1,8 +1,3 @@
-<div align="left">
-  <p>💡 Profile Views</p>
-  <img src="https://komarev.com/ghpvc/?username=David-Pareja&label=Profile+Views&color=4493F8&style=flat" alt="Profile views counter for David-Pareja" />
-</div>
-
 <!-- TYPING EFFECT HEADER -->
 <h1 align="right">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+David!;Welcome!!;" alt="Typing SVG" />
@@ -28,6 +23,8 @@ I am a passionate software developer and tech leader dedicated to bridging the g
   <a href="mailto:d.pareja.armando@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=David-Pareja&label=Profile+Views&color=4493F8&style=flat" alt="Profile views counter for David-Pareja" />
 </div>
 
 <hr>
@@ -41,21 +38,6 @@ I am a passionate software developer and tech leader dedicated to bridging the g
   <!-- Supporting Skills & Web -->
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,postman,figma" alt="Supporting skills and web icons" />
 </p>
-
-<hr>
-
-## ⚡️ GitHub Stats
-
-<br>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=David-Pareja&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="David's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=David-Pareja&theme=transparent&count_private=true&border_radius=10&locale=en" alt="David's GitHub streak stats" />
-</div>
-<br>
-<div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Pareja&theme=transparent&layout=donut&langs_count=6&border_radius=10&show_icons=true&locale=en" alt="David's most used languages" />
-</div>
 
 <hr>
 
