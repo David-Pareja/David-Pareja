@@ -8,7 +8,7 @@
 I am a passionate software developer and tech leader dedicated to bridging the gap between complex algorithmic systems and human-centric design. From diving into the mathematical foundations of machine learning to driving community engagement, I love turning ambitious ideas into reality.
 
 - 🧠 **Research Interests:** Explainable AI (XAI) and its real-world impact — specifically how different attribution and counterfactual explanation methods affect error/bias detection in high-stakes fields like clinical healthcare.
-- ⚙️ **Currently Working On:** An interactive 3D space GPS!
+- ⚙️ **Currently Working On:** An interactive 3D space GPS! Recently finished and polishing up the AutoScheduler!
 - 🏆 **Milestones:** Winner of the **Sunflower Hackathon**, maintaining a **3.4 GPA** throughout my academic career.
 - 👥 **Leadership:** Served as **Communications Lead** for the Google Developer Groups (GDG) On Campus chapter at Pace University, managing internal and external messaging to cultivate a vibrant developer community.
 - 🎮 **Fun Fact:** I'm a big follower of competitive tactical esports — always keeping up with Valorant tournaments and fine-tuning my VCT brackets.
